@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Espresso",
+    "image": "https://i.ibb.co/SyL9djt/espresso.jpg",
+    "price": 2.5,
+    "description": "A classic Italian espresso, made with a single shot of espresso and served in a demitasse cup."
+  },
+  {
+    "name": "Cappuccino",
+    "image": "https://i.ibb.co/yFwf8gP/cappuccino.jpg",
+    "price": 3.5,
+    "description": "A popular Italian coffee drink, made with equal parts espresso, steamed milk, and frothed milk."
+  },
+  {
+    "name": "Latte",
+    "image": "https://i.ibb.co/7r4zqV7/latte.jpg",
+    "price": 4.0,
+    "description": "A milky coffee drink made with espresso and steamed milk, topped with a layer of frothed milk."
+  },
+  {
+    "name": "Americano",
+    "image": "https://i.ibb.co/0Xg7nB5/americano.jpg",
+    "price": 3.0,
+    "description": "A simple coffee drink made with a shot of espresso and hot water."
+  },
+  {
+    "name": "Mocha",
+    "image": "https://i.ibb.co/DpDGLrw/mocha.jpg",
+    "price": 4.5,
+    "description": "A chocolatey coffee drink made with espresso, steamed milk, chocolate syrup, and whipped cream."
+  },
+  {
+    "name": "Macchiato",
+    "image": "https://i.ibb.co/XFQL5fy/macchiato.jpg",
+    "price": 3.0,
+    "description": "A coffee drink made with a shot of espresso and a dollop of foamed milk."
+  },
+  {
+    "name": "Flat White",
+    "image": "https://i.ibb.co/HVGrnzg/Flat-White.jpg",
+    "price": 4.5,
+    "description": "A coffee drink made with espresso and steamed milk, similar to a latte but with less foam."
+  },
+  {
+    "name": "Iced Coffee",
+    "image": "https://i.ibb.co/LJBG2KX/iced-coffee.jpg",
+    "price": 3.5,
+    "description": "A coffee drink served over ice, with your choice of milk and sweetener."
+  },
+  {
+    "name": "Affogato",
+    "image": "https://i.ibb.co/jfP43yc/affogato.jpg",
+    "price": 5.0,
+    "description": "A dessert-like coffee drink made with a shot of espresso poured over a scoop of vanilla ice cream."
+  }
+]
