@@ -5,7 +5,7 @@ import { Link } from "react-router-dom";
 const Menu = () => {
   const [Menu, setMenu] = useState([]);
   useEffect(() => {
-    fetch("http://localhost:5000/menu")
+    fetch("https://coffee-culture-server.vercel.app/menu")
       .then((res) => res.json())
       .then((data) => setMenu(data));
     //console.log('data asche');
